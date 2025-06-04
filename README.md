@@ -14,5 +14,3 @@ This project implements the core components of automatic differentiation and sim
 - Training loop for simple supervised tasks
 
 - Lightweight and educational—ideal for learning the internals of autograd and deep learning
-
-## Example usage
